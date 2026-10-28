@@ -378,8 +378,6 @@ IESTP Valle Grande · Cañete, Lima, Perú
 
 *Los proyectos descritos corresponden a experiencia formativa y práctica profesional. Los repositorios y demostraciones se incorporarán cuando estén disponibles públicamente y exista autorización para compartirlos.*)
 
-*El enlace de LinkedIn debe sustituirse por la URL de tu perfil personal.*
-
 ---
 
 *Los proyectos descritos corresponden a experiencia formativa y práctica profesional. Los repositorios y demostraciones se incorporarán cuando estén disponibles públicamente y exista autorización para compartirlos.*
